@@ -1,2 +1,6 @@
+[core]
+    remote = myremote
 ['remote "origin"']
     url = https://dagshub.com/lean788/dagshub_project/
+['remote "myremote"']
+    url = /data
